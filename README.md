@@ -52,11 +52,11 @@ Hi, I'm Bouaskaoun Mohammed!
 ### 🧰 Frameworks and Libraries
 
 <p>
-    <a href="https://github.com/Bouaskaoun"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white"></a>
 
-<a href=><img alt="Django" src="https://img.shields.io/badge/Django%20-%23150458.svg?logo=Django&logoColor=white"></a>
-<a href=><img alt="Django" src="https://img.shields.io/badge/Angular"></a>
-https://img.shields.io/badge/:badgeContent
+<img alt="Static Badge" src="https://img.shields.io/badge/Django-darkgreen?style=for-the badge&logo=django&logoColor=%23013220%20&labelColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/Pygame-blue?style=for-the-badge&logo=python&logoColor=white&labelColor=yellow">
+
+
 
 </p>
 
