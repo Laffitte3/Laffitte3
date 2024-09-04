@@ -54,7 +54,10 @@ Hi, I'm Bouaskaoun Mohammed!
 <p>
     <a href="https://github.com/Bouaskaoun"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white"></a>
 
-    <a href=><img alt="Django" src="https://img.shields.io/badge/Django%20-%23150458.svg?logo=Django&logoColor=white"></a>
+<a href=><img alt="Django" src="https://img.shields.io/badge/Django%20-%23150458.svg?logo=Django&logoColor=white"></a>
+<a href=><img alt="Django" src="https://img.shields.io/badge/Angular"></a>
+https://img.shields.io/badge/:badgeContent
+
 </p>
 
 ### 🗄️ Databases and Cloud Hosting
